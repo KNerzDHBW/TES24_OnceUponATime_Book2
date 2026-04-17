@@ -17,7 +17,7 @@ int main()
 
     std::cout << "Vor langer Zeit, in einem fernen Königreich, gab es einen König"
                  "und eine Königin, die sich sehnlichst wünschten, keine König und"
-                 "Königin mehr zu sein."
+                 "Königin mehr zu sein. "
                  "Das Leben als Königin und König war ihnen zu anstrengend."
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
