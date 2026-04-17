@@ -6,7 +6,7 @@ int main()
      * Buchtitel
      */
     std::cout << std::endl
-              << "Die Maerchen von TESxx" << std::endl
+              << "Die Maerchen von TES24" << std::endl
               << std::endl;
     /*
      * Erstes Kapitel
@@ -22,6 +22,11 @@ int main()
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
 
+    std::cout << "Denn sie hatten gehört, dass irgendwo im Königreich ein "
+                 "geheimer Schatz verborgen sein sollte, der ihnen endlich "
+                 "die Freiheit schenken könnte."
+              << std::endl;
+
     /*
      * Zweites Kapitel
      */
@@ -32,6 +37,13 @@ int main()
     std::cout
         << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
            "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+        << std::endl
+        << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
+                      // diesem Satz
+      std::cout << "Ich weiß nicht was ich hier reinschreiben soll :)" << std::endl;
+
+   std::cout
+        << "Aktorik Klausur wird schlimm :("
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
@@ -74,4 +86,5 @@ int main()
         << std::endl // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
          << "In diesem Schrottplatz gab es eine kleine Schaukel, die von einem alten Mann gebaut wurde, der einst ein berühmter Erfinder war.";
+    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;                 
 }
