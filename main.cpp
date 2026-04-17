@@ -82,15 +82,19 @@ int main()
      * Fünftes Kapitel
      */
     std::cout << std::endl
-              << "Kapitel 5: Die Maus, der Vogel und die Bratwurst" << std::endl
+              << "Kapitel 5: Die Maus, der Vogel und die Weißwurst" << std::endl
               << std::endl;
 
-    std::cout
-        << "Es waren einmal eine Maus, ein Vogel und eine Vogelscheuche, die lebten "
-           "zusammen in einer großen Huette am Rande eines hässlichen Schrottplatzes."
-        << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                      // unter diesem Satz
-         << "In diesem Schrottplatz gab es eine kleine Schaukel, die von einem alten Mann gebaut wurde, der einst ein berühmter Erfinder war.";
-    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;
+    std::cout << "Es waren einmal eine Maus, ein Vogel und eine Vogelscheuche, die lebten "
+                 "zusammen in einer großen Huette am Rande eines hässlichen Schrottplatzes."
+              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                            // unter diesem Satz
+    std::cout << "In diesem Schrottplatz gab es eine kleine Schaukel, die von einem alten Mann"
+                 "gebaut wurde, der einst ein berühmter Erfinder war."
+              << std::endl;
+    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." 
+              << std::endl;   
+    std::cout << "Jedoch aß er so viel, dass er platzte." 
+              << std::endl;
                      
 }
