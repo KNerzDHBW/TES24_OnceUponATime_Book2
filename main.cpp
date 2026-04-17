@@ -63,8 +63,8 @@ int main()
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
     std::cout << "Es war immer tiefste Nacht, bitter kalt und selbst der Mond schien langsam seine letzte Kraft zu verlieren."
-               << std::endl
                << std::endl;
+   std::cout << "Sie hat eine line koks gezogen" << std::endl;
     /*
      * Viertes Kapitel
      */
