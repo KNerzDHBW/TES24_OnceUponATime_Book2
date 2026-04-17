@@ -77,7 +77,7 @@ int main()
               << std::endl;
     std::cout << "Vor langer Zeit gab es einmal einen magischen See, der war so "
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
-                 "von denen der See sich finden lassen wollte."
+                 "von denen sich der See finden lassen wollte."
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
