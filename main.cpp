@@ -21,7 +21,6 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-
     /*
      * Zweites Kapitel
      */
@@ -29,12 +28,11 @@ int main()
               << "Kapitel 2: Die sieben Zwerge und der Drachen" << std::endl
               << std::endl;
 
-    std::cout
-        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-           "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
-        << std::endl
+    °er langer Zeit lebte einst ein kleines Maedchen, das alle °chen nannten, denn es trug nie ein feuerrotes Maentelchen°
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
+     std::cout << Das Maedchen mit dem roten Maentelchen ging oft in den Wald << std::endl;
+
 
     /*
      * Drittes Kapitel
