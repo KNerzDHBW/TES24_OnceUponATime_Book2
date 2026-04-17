@@ -16,7 +16,7 @@ int main()
               << std::endl;
 
     std::cout << "Vor langer Zeit, in einem fernen Königreich, gab es einen König"
-                 "und eine Königin, die sich sehnlichst wünschten, keine König und"
+                 "und eine Königin, die sich sehnlichst wünschen, keine König und"
                  "Königin mehr zu sein."
                  "Das Leben als Königin und König war ihnen zu anstrengend."
               << std::endl
@@ -28,6 +28,9 @@ int main()
                  "geheimer Schatz verborgen sein sollte, der ihnen endlich "
                  "die Freiheit schenken könnte."
               << std::endl;
+
+   std::cout << "Plötzlich steht Xatar vor ihnen und sagt: Ihr wollt mein Gobbit? Irgendwo im Rhein habe ich es versteckt. Tunfisch Tunfisch Xrrr"
+              << std::endl;   
 
     /*
      * Zweites Kapitel
