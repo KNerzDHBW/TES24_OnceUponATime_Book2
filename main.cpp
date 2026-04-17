@@ -81,7 +81,7 @@ int main()
      * Fünftes Kapitel
      */
     std::cout << std::endl
-              << "Kapitel 5: Die Maus, der Vogel und die Bratwurst" << std::endl
+              << "Kapitel 5: Die Maus, der Vogel und die Weißwurst" << std::endl
               << std::endl;
 
     std::cout
