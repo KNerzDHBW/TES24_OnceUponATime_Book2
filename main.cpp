@@ -35,6 +35,9 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
+    std::cout << "Rotkaeppchen wurde sie aufgrund ihere purpurrote Stiefelchen genannt." 
+         << std::endl;
+
 
     /*
      * Drittes Kapitel
