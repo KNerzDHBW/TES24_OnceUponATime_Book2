@@ -46,10 +46,10 @@ int main()
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
     std::cout << "Sie liebte Erdbeerkuchen." << std::endl;
-      std::cout << "Ich weiß nicht was ich hier reinschreiben soll :)" << std::endl;
+      std::cout << "Und Koks" << std::endl;
 
    std::cout
-        << "Aktorik Klausur wird schlimm :("
+        << "Aktorik Klausur wird schlimm, sagte Rottkäppchen"
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
@@ -65,10 +65,9 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-    std::cout << "Es war immer tiefste Nacht, "
-                  "bitter kalt und selbst der Mond schien langsam seine letzte Kraft zu verlieren."
-               << std::endl
+    std::cout << "Es war immer tiefste Nacht, bitter kalt und selbst der Mond schien langsam seine letzte Kraft zu verlieren."
                << std::endl;
+   std::cout << "Sie hat eine line koks gezogen" << std::endl;
     /*
      * Viertes Kapitel
      */
