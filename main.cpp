@@ -6,7 +6,7 @@ int main()
      * Buchtitel
      */
     std::cout << std::endl
-              << "Die Maerchen von TES24" << std::endl
+              << "Die Maerchen von TES24B >>> TES24A" << std::endl
               << std::endl;
     /*
      * Erstes Kapitel
