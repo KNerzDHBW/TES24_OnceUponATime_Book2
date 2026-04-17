@@ -6,7 +6,7 @@ int main()
      * Buchtitel
      */
     std::cout << std::endl
-              << "Die Maerchen von TES24" << std::endl
+              << "Die Maerchen von TES24B >>> TES24A" << std::endl
               << std::endl;
     /*
      * Erstes Kapitel
@@ -33,22 +33,23 @@ int main()
      * Zweites Kapitel
      */
     std::cout << std::endl
-              << "Kapitel 2: Die sieben Zwerge und der Drachen" << std::endl
+              << "Kapitel 2: Die sieben. Zwerge und der Drachen" << std::endl
               << std::endl;
 
     std::cout
         << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-           "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+           "Rotkaeppchen nannten, denn es trug nie ein blaues Maentelchen."
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
     std::cout << "Rotkaeppchen wurde sie aufgrund ihere purpurrote Stiefelchen genannt." 
          << std::endl;
 
+    std::cout << "Sie liebte Erdbeerkuchen." << std::endl;
       std::cout << "Ich weiß nicht was ich hier reinschreiben soll :)" << std::endl;
 
    std::cout
-        << "Der Mantel war ein Geschenk ihrer geliebten Grossmutter, die sie sehr vermisste."
+        << "Aktorik Klausur wird schlimm :("
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
@@ -84,15 +85,15 @@ int main()
      * Fünftes Kapitel
      */
     std::cout << std::endl
-              << "Kapitel 5: Die Maus, der Vogel und die Weißwurst" << std::endl
+              << "Kapitel 5: Die Maus, der Vogel und die Bratwurst" << std::endl
               << std::endl;
 
     std::cout
         << "Es waren einmal eine Maus, ein Vogel und eine Vogelscheuche, die lebten "
            "zusammen in einer großen Huette am Rande eines hässlichen Schrottplatzes."
-        << std::endl // erster Satz, neue Sätze in diesem Kapitel erst
+        << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
          << "In diesem Schrottplatz gab es eine kleine Schaukel, die von einem alten Mann gebaut wurde, der einst ein berühmter Erfinder war.";
-    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;   
-    std::cout << "Jedoch aß er so viel, dass er platzte." << std::endl;            
+    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;
+                     
 }
