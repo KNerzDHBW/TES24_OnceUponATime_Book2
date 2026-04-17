@@ -45,7 +45,7 @@ int main()
       std::cout << "Ich weiß nicht was ich hier reinschreiben soll :)" << std::endl;
 
    std::cout
-        << "Der Mantel war ein Geschenk ihrer geliebten Grossmutter, die sie sehr vermisste."
+        << "Der Mantel war ein Geschenk ihrer geliebten Grossmutter."
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
