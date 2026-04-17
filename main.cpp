@@ -21,6 +21,7 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+   std::cout << "Daher gingen sie zur Agentur für Arbeit." << std::endl;
 
     std::cout << "Denn sie hatten gehört, dass irgendwo im Königreich ein "
                  "geheimer Schatz verborgen sein sollte, der ihnen endlich "
