@@ -84,4 +84,5 @@ int main()
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
+    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;                 
 }
