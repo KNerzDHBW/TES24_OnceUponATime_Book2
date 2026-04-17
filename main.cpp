@@ -90,5 +90,6 @@ int main()
         << std::endl // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
          << "In diesem Schrottplatz gab es eine kleine Schaukel, die von einem alten Mann gebaut wurde, der einst ein berühmter Erfinder war.";
-    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;                 
+    std::cout << "Der Vogel bekam Hunger und hat die anderen gegessen." << std::endl;
+                     
 }
