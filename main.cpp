@@ -73,4 +73,9 @@ int main()
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
+   std::cout    
+         << "Die drei Freunde waren unzertrennlich und erlebten viele Abenteuer zusammen."
+         << std::endl;
+
+      
 }
