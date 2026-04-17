@@ -74,7 +74,7 @@ int main()
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
    std::cout    
-         << "Die drei Freunde waren unzertrennlich und erlebten viele Abenteuer zusammen."
+         << "Die drei Freunde waren unzertrennlich und erlebten viele Abenteuer zusammen!"
          << std::endl;
 
       
