@@ -36,6 +36,12 @@ int main()
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
 
+   std::cout
+        << "Aktorik Klausur wird schlimm :("
+        << std::endl
+        << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
+                      // diesem Satz
+
     /*
      * Drittes Kapitel
      */
